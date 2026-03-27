@@ -6,7 +6,7 @@ GitHub is a web-based platform for version control and collaboration that uses G
 
 **Organization:** A group account on GitHub for a company or team. It helps people work together and manage shared repositories.
 
-**Repository:** A folder on GitHub where files, code, and version history are stored.
+**Repository:** A folder on GitHub where files, code and version history are stored.
 
 **Commit:** A saved change in a repository. Each commit has a message that explains what was changed.
 
